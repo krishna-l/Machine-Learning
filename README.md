@@ -5,4 +5,5 @@ The contents are as follows:
 2) K-Means clustering of random people based on age and income. 
 3) Decision Trees.
 4) Support Vector Machines
-5) Item Based Collaborative Recommender System
+5) Item Based Collaborative Recommender System using Movie lens dataset
+6) PCA using Iris dataset
