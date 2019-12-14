@@ -6,4 +6,5 @@ The contents are as follows:
 3) Decision Trees.
 4) Support Vector Machines
 5) Item Based Collaborative Recommender System using Movie lens dataset
-6) PCA using Iris dataset
+6) PCA using Iris dataset.
+7) Reinforcement Learning using Q-Learning. 
